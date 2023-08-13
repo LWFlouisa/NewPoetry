@@ -8,5 +8,5 @@ Welcome to my poetry blog. Here this reflects the current era of my poetry style
 
 The neckstitch represents the fact that characters in my science fiction, while beheading is the default method of capital punishment, often don't die from the decapitation, and often have their heads kept on life support in tanks. So it is that I remain attached to Rock, but just by a thread.
 
-[Fashion Based On My Favorite Wine](https://www.pinterest.com/sarahmattheww/wine/)
+[Fashion Based On My Favorite Wine](https://www.pinterest.com/sarahmattheww/wine/)<br />
 [Lime Green Baby Bat](https://www.pinterest.com/sarahmattheww/apple-and-lime/)
