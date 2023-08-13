@@ -1,6 +1,7 @@
 ---
 title: "Awaiting Railway Stop"
 author: "S.R. Weaver"
+tags: spiritngaway yomi ghosttrains
 ---
 The midnight train<br />
 ascends up railway wire...<br />
