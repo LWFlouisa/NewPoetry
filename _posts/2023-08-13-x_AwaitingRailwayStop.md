@@ -1,7 +1,7 @@
 ---
 title: "Awaiting Railway Stop"
 author: "S.R. Weaver"
-tags: spiritngaway yomi ghosttrains
+tags: spiritngaway yomi ghosttrains insenscale keyofAnatural Aeolian Phrygian entremodo
 ---
 The midnight train<br />
 ascends up railway wire...<br />
