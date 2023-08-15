@@ -1,5 +1,5 @@
 ---
-title: "New Lifeform"
+title: "Vampire Queen"
 author: "S.R. Weaver"
 tags: vampire aggressive genocide
 ---
