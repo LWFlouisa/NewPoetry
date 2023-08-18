@@ -1,4 +1,4 @@
-d---
+---
 title: "Lets Have A Smash, At The Funeral Party"
 author: "S.R. Weaver"
 tags: gothrock metalheads culture averagejoes
