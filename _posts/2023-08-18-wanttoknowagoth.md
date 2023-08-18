@@ -13,7 +13,8 @@ the difference between<br />
 Metal and Goth rock?
 
 Suppose we had a family,<br />
-make them friends of six or nine people.
+make them friends of six or nine.<br />
+Leadies in both look quite devine.
 
 We are a riding<br />
 along a busy roadway<br />
