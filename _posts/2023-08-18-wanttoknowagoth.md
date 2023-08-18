@@ -38,7 +38,7 @@ as smashes against a toad.<br />
 There splat is both the metalhead and the tpad.
 
 But that splatter fascinates us,<br />
-Not do to any particular anjoyment of death itself.<br />
+Not do to any particular anjoyment of death.<br />
 But because of how fragile life can be,<br />
 We your blind with aggression.
 
