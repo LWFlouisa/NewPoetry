@@ -17,10 +17,10 @@ make them friends of six or nine.<br />
 Leadies in both look quite devine.
 
 We are a riding<br />
-along a busy roadway<br />
+along a busy roadway, obeying the traffic signs<br />
 on skateboards.<br />
 Riding along with the back.<br />
-One three stays far behind.
+One group of three stays far behind.
 
 The other speeds right ahead.<br />
 For Goths we are normal<br />
