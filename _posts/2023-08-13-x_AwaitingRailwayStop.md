@@ -3,8 +3,10 @@ title: "Awaiting Railway Stop"
 author: "S.R. Weaver"
 tags: spiritngaway yomi ghosttrains insenscale keyofAnatural Aeolian Phrygian entremodo
 ---
+## Video Version
 <iframe title="Awaiting Railway Stop" src="https://video.ploud.jp/videos/embed/1e213d24-d219-48fd-91ce-ee731ccbee81" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
+## Awaiting Railway Stop
 The midnight train<br />
 ascends up railway wire...<br />
 Winter snowflakes.
