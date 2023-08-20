@@ -10,8 +10,8 @@ tags: FrancoJapanese Hafu HalfFrench Lust
 Lady black and white<br />
 with yellow rose hair.<br />
 You ignite in<br />
-me darker passions in<br />
-me, I'd rather forget.
+me darker passions<br />
+I'd rather forget.
 
 Sasuki-Marie<br />
 vous sont moi fleur.
@@ -25,10 +25,10 @@ along oblique blade.<br />
 Yellow French bow.
 
 Lady black and white<br />
-with yellow rose hair.v
+with yellow rose hair.<br />
 You ignite in<br />
-me darker passions in<br />
-me, I'd rather forget.
+me darker passions<br />
+I'd rather forget.
 
 Sasuki-Marie<br />
 vous sont moi fleur.
