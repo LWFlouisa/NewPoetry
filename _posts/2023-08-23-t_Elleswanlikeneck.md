@@ -3,6 +3,10 @@ title: "Elle, Swanlike Grace"
 author: "S.R. Weaver"
 tags: decapitation swanlike angel innucuous blood
 ---
+## Video Version
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KnZLRLHhhPI?si=u-QJ1F4UM5Rb45K2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## ELLE, SWANLIKE GRACE
 VERSE<br />
 She is a head<br />
 severed from swanlike neck.<br />
