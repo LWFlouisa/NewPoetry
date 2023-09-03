@@ -15,10 +15,10 @@ Somedays I still<br />
 miss you, walking bridges...<br />
 Sunlight fades red.
 
-There was so much between us<br />
-yet twas all it took, took take our soul away.<br />
-Were were trauma bond,<br />
-And hugged each other on this day.<br />
+There was so much split between us<br />
+that took our souls astray.<br />
+Were were trauma bound,<br />
+hugging each other on this day.<br />
 I wished we could have stayed<br />
 together for at least another day.<br />
 And yet twas never to me,<br />
