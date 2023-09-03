@@ -16,7 +16,7 @@ miss you, walking bridges...<br />
 Sunlight fades red.
 
 There was so much between us<br />
-yet was all ut took, took take our soul away.<br />
+yet twas all it took, took take our soul away.<br />
 Were were trauma bond,<br />
 And hugged each other on this day.<br />
 I wished we could have stayed<br />
