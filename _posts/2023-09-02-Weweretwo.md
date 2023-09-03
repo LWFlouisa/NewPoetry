@@ -1,7 +1,7 @@
 ---
 title: "We Were Two"
 author: "S.R. Weaver"
-tags: traumabound painfulmemories antipop
+tags: traumabound painfulmemories antipop darkpop
 ---
 We were two<br />
 lovers split apart, worlds away.<br />
