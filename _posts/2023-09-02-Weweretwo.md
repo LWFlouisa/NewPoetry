@@ -7,7 +7,7 @@ We were two<br />
 lovers split apart, worlds away.<br />
 We were two<br />
 lovers miles apart, to think<br />
-they all it took mistake<br />
+theat all it took mistake<br />
 to take our bond away.<br />
 We were two.
 
