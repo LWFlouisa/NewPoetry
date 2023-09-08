@@ -3,6 +3,9 @@ title: "Life In Rose And Black"
 author: "S.R. Weaver"
 tags: raven crow sign mysteries secrets redsun
 ---
+## Video Version
+<iframe title="Life In Rose And Black" src="https://video.ploud.jp/videos/embed/e5febf96-478a-47fb-9dd1-2f994f8d0eec" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
 ## THE LIFE IN BLACK AND RED
 Rose and black, a life in darkest midnight.<br />
 Rose and black, a falling sun in red bleeding.<br />
