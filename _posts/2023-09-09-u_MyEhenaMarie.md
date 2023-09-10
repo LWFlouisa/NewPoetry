@@ -65,7 +65,7 @@ Yet Ehena-Marie,<br />
 is the only one I could love.<br />
 And father took her away from me.
 
-She I bury myself, crawl inside.<br />
+So I bury myself, crawl inside.<br />
 Me and my Ehena Marie.<br />
 And in this midnight forest,<br />
 I can be with my beloved.<br />
