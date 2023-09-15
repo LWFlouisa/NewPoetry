@@ -6,6 +6,12 @@ tags: decapitation swanlike angel innucuous blood
 ## Video Version
 <iframe id='ivplayer' width='640' height='360' src='https://yewtu.be/embed/hC4_Gnph9f0?t=1' style='border:none;'></iframe>
 
+<center><video width="640px" height="360px" controls>
+  <source src="https://lwflouisa.github.io/UploadedFairy/videos/UploadedfairyTrailerFull.mp4" type="video/mp4">
+
+  Your browser does not support the video tag.
+</video></center>
+
 ## ELLE, SWANLIKE GRACE
 VERSE<br />
 She is a head<br />
