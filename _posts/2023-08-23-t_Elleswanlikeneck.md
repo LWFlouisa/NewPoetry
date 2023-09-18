@@ -4,11 +4,7 @@ author: "S.R. Weaver"
 tags: decapitation swanlike angel innucuous blood
 ---
 ## Video Version
-<center><video width="640px" height="360px" controls>
-  <source src="https://lwflouisa.github.io/NewPoetry/videos/ElleSwanlikeGrace.mp4" type="video/mp4">
-
-  Your browser does not support the video tag.
-</video></center>
+<iframe allowfullscreen src="https://www.vidlii.com/embed?v=NKN-VNZT16h&a=0" frameborder="0" width="640" height="360"></iframe>
 
 ## ELLE, SWANLIKE GRACE
 VERSE<br />
