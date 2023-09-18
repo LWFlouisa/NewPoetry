@@ -2,7 +2,11 @@
 layout: page
 title: About
 ---
-![image](https://github.com/LWFlouisa/NewPoetry/blob/main/images/electrovalse.png?raw=true)
+<center><video width="640px" height="360px" controls>
+  <source src="https://lwflouisa.github.io/NewPoetry/videos/ElleSwanlikeGrace.mp4" type="video/mp4">
+
+  Your browser does not support the video tag.
+</video></center>
 
 Welcome to my poetry blog. Here this reflects the current era of my poetry style. I'm a science fiction and horror writer at heart, but have gradually come to prefer science fiction. When I'm not writing, you can find me at a local coffee shop having a Latte or French Press. Or going to various techware stores for thumb drives.
 
