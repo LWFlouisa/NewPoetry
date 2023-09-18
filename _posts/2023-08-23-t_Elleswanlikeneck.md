@@ -3,8 +3,12 @@ title: "Elle, Swanlike Grace"
 author: "S.R. Weaver"
 tags: decapitation swanlike angel innucuous blood
 ---
-## Vidlii Version
-<iframe allowfullscreen src="https://www.vidlii.com/embed?v=NKN-VNZT16h&a=0" frameborder="0" width="640" height="360"></iframe>
+## Directly Hosted
+<center><video width="640px" height="360px" controls>
+  <source src="https://lwflouisa.github.io/NewPoetry/videos/ElleSwanlikeGrace.mp4" type="video/mp4">
+
+  Your browser does not support the video tag.
+</video></center>
 
 ## Peertube Version
 <iframe title="Elle, Swanlike Grace" src="https://video.ploud.jp/videos/embed/dd036574-5766-4417-9627-088269db434f" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
