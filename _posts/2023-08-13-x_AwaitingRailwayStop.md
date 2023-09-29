@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: spiritngaway yomi ghosttrains insenscale keyofAnatural Aeolian Phrygian entremodo
 ---
 ## Video Version
-<iframe title="Awaiting Railway Stop" src="https://video.ploud.jp/videos/embed/be75d5a3-776d-4c5f-a546-f013da4a40fc" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe scrolling="no" id="hearthis_at_track_10187707" width="100%" height="150" src="https://app.hearthis.at/embed/10187707/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency allow="autoplay"><p>Listen to <a href="https://hearthis.at/sarah-rebecca-weaver/awaitingrailwaystop/" target="_blank">Awaiting Railway Stop</a> <span>by</span><a href="https://hearthis.at/sarah-rebecca-weaver/" target="_blank" >Sarah Rebecca Weaver</a> <span>on</span> <a href="https://hearthis.at/" target="_blank">hearthis.at</a></p></iframe>
 
 ## Awaiting Railway Stop
 The midnight train<br />
