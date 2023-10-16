@@ -3,8 +3,6 @@ title: "Midnight Music Class"
 author: "S.R. Weaver"
 tags: detention musicclass highschool pianosavant jpopinfluenced
 ---
-<iframe scrolling="no" id="hearthis_at_track_10166505" width="100%" height="150" src="https://app.hearthis.at/embed/10166505/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency allow="autoplay"><p>Listen to <a href="https://hearthis.at/sarah-rebecca-weaver/midnightmusicclass/" target="_blank">Midnight Music Class</a> <span>by</span><a href="https://hearthis.at/sarah-rebecca-weaver/" target="_blank" >Sarah Rebecca Weaver</a> <span>on</span> <a href="https://hearthis.at/" target="_blank">hearthis.at</a></p></iframe>
-
 ## Midnight Music Class
 
 After school<br />
