@@ -1,5 +1,5 @@
 ---
-title: "Off Goes The Queen, At Track Track Speed"
+title: "Off Goes The Queen, At Train Track Speed"
 author: "S.R. Weaver"
 tags: guillotine tracktrack beheaded execution
 ---
