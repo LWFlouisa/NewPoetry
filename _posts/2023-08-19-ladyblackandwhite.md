@@ -4,7 +4,10 @@ author: "S.R. Weaver"
 tags: FrancoJapanese Hafu HalfFrench Lust
 ---
 ## Video Version
-<iframe title="Uploaded Fairy &quot;Hematos Story&quot; Full Storyboard" src="https://video.ploud.jp/videos/embed/2160e717-849a-4bcc-abc1-8a7457572897" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+ <video width="100%" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 
 ## Lady Black And White
 Lady black and white<br />
