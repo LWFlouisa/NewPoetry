@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: FrancoJapanese Hafu HalfFrench Lust
 ---
 ## Video Version
-<iframe title="Lady Black And White [ Recitated Poetry ]" src="https://video.ploud.jp/videos/embed/e2370a92-9d59-4b38-bcf3-a89383e236c5" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Uploaded Fairy &quot;Hematos Story&quot; Full Storyboard" src="https://video.ploud.jp/videos/embed/2160e717-849a-4bcc-abc1-8a7457572897" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Lady Black And White
 Lady black and white<br />
