@@ -6,12 +6,6 @@ tags: FrancoJapanese Hafu HalfFrench Lust
 ## Peertube Version
 <iframe title="Lady Black And White" src="https://video.ploud.jp/videos/embed/6ecac3fb-f175-47fe-9aa4-12a2c83a64cb" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
-## Video Version
- <video width="100%" height="240" controls>
-  <source src="https://lwflouisa.github.io/NewPoetry/videos/LadyBlackAndWhite.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
-
 ## Lady Black And White
 Lady black and white<br />
 with yellow rose hair.<br />
@@ -55,3 +49,9 @@ Sasuki-Marie.
 And your severed head,<br />
 Lying with me in a bed of flours.<br />
 Sasuki-Marie.
+
+## Video Version
+ <video width="100%" height="240" controls>
+  <source src="https://lwflouisa.github.io/NewPoetry/videos/LadyBlackAndWhite.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
