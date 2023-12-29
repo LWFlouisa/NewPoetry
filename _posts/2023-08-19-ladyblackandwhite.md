@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: FrancoJapanese Hafu HalfFrench Lust
 ---
 ## Peertube Version
-<iframe title="Lady Black And White" src="https://video.ploud.jp/videos/embed/6ecac3fb-f175-47fe-9aa4-12a2c83a64cb" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Lady Black And White Version II" src="https://video.ploud.jp/videos/embed/b9d05f38-8371-4c03-b645-53c1f982009a" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 ## Lady Black And White
 Lady black and white<br />
